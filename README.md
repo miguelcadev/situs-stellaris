@@ -26,7 +26,7 @@ O protótipo foi planejado para funcionar sem internet, Wi-Fi ou Bluetooth. O GP
 
 ![Diagrama de blocos do Situs Stellaris](hardware/diagrams/situs-stellaris-diagrama-de-blocos.png)
 
-[Abrir o diagrama editável no formato draw.io](hardware/diagrams/situs-stellaris-diagrama-de-blocos.drawio)
+[Abrir o diagrama editável no formato draw.io](hardware/diagrams/situs-stellaris-diagrama.drawio)
 
 O diagrama apresenta o fluxo de dados. Os detalhes de montagem e as conexões elétricas estão descritos no manual técnico e precisam ser conferidos para os módulos utilizados.
 
